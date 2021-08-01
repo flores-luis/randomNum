@@ -8,7 +8,13 @@
  * @returns {number} The random number value.
  */
 
- Math.floor(Math.random() * (6-1+1)) + 1;
+ function getRandomNumber(lower,upper = 100) {
+    const randomNumber =  Math.floor(Math.random() * (upper - lower + 1)) + lower;
+    return randomNumber;
+ };
 
  // Call the function and pass it different values.
 
+console.log(getRandomNumber(1,6));
+console.log(`${getRandomNumber(10,100)} is a random number between 10 and 100`);
+console.log(getRandomNumber(200,50));
