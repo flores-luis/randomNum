@@ -1,6 +1,6 @@
 # Creating a random Number Generator
 
-<img src="https://ultimatecourses.com/assets/category/javascript-58bb09245e2abeaf56f7db48e86fa4454c2f316a4c6c71aadaa2bdf3b206ab95.svg" alt="JSimage"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/41M3Et6dTdL.jpg" alt="question_image"/>
 
 >  Arrays and Objects
 
