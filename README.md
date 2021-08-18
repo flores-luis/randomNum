@@ -29,8 +29,7 @@ This project is about generating a random number
 ---
 
 ## References
-
-- Pokemon Database- [@pokemondatabse](https://pokemondb.net/pokedex/all)
+- N/A
 
 ---
 
