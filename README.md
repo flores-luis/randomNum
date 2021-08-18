@@ -1,4 +1,4 @@
-# Creating a random Number Generator
+# Creating a random Number Generator Using Javascript
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41M3Et6dTdL.jpg" alt="question_image"/>
 
@@ -17,7 +17,12 @@
 
 ## Description
 
-This project is about generating a random number
+This project is about generating a random number using:
+- Math (Object)
+- Method
+- Conditionals
+- input
+- Document (object in DOM)
 
 #### Technologies used
 
