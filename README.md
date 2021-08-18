@@ -2,7 +2,7 @@
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41M3Et6dTdL.jpg" alt="question_image"/>
 
->  Arrays and Objects
+>  Input and Output data
 
 ---
 
@@ -17,7 +17,8 @@
 
 ## Description
 
-This project will replicate a dictionary of pokemon (pokedex)
+This project is about generating a random number
+
 #### Technologies used
 
 - HTML
